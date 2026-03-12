@@ -9,3 +9,4 @@
 * 💬 Ask me about **React, Node.js, REST APIs, and backend development**
 * 📫 Reach me at **[udaymalviya2003@gmail.com](mailto:udaymalviya2003@gmail.com)**
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayMalviya11&layout=compact)
